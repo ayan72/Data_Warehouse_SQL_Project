@@ -9,7 +9,8 @@ This portfolio project demonstrates an **end-to-end data warehousing and analyti
 
 The project implements the **Medallion Architecture** with three layers:  
 
-![Data Architecture](docs/data_architecture .png)  
+![Data Architecture](docs/data_architecture.png)
+
 
 1. **Bronze Layer** – Raw data ingestion from CSV files (ERP & CRM) into SQL Server.  
 2. **Silver Layer** – Data cleansing, standardization, and normalization for consistency.  
